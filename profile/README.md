@@ -1,3 +1,7 @@
+<a href="https://s.id/standwithpalestine">
+  <img alt="We stand with Palestine" src="https://cdn.jsdelivr.net/gh/Safouene1/support-palestine-banner@master/banner-project.svg" width="100%" />
+</a>
+
 <img 
   src="https://github-production-user-asset-6210df.s3.amazonaws.com/1531684/281940439-6ed31c60-45b2-4188-9ebf-ebb80e92196b.png" 
   style="margin-top:20px;margin-right:10px;margin-bottom:20px;margin-left:10px"
