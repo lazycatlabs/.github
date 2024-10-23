@@ -3,14 +3,14 @@
 </a>
 
 <img 
-  src="https://github-production-user-asset-6210df.s3.amazonaws.com/1531684/281940439-6ed31c60-45b2-4188-9ebf-ebb80e92196b.png" 
+  src="https://github.com/lazycatlabs/blog.lazycatlabs.com-giscus/blob/main/lazycatlabs/full_logo_transparent.png" 
   style="margin-top:20px;margin-right:10px;margin-bottom:20px;margin-left:10px"
   align="center" 
 />
 
 
 <img 
-  src="https://user-images.githubusercontent.com/1531684/281937715-f53c55be-4b70-43b5-bb50-11706fb71ada.png" 
+  src="https://github.com/lazycatlabs/blog.lazycatlabs.com-giscus/blob/main/lazycatlabs/new_avatar_square.png" 
   style="margin-top:20px;margin-right:13px;margin-bottom:20px"
   align="left" 
   height="350px"
