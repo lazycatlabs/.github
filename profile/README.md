@@ -9,11 +9,8 @@
 />
 
 
-
-
-
 <img 
-  src="https://github.com/lazycatlabs/blog.lazycatlabs.com-giscus/blob/main/lazycatlabs/new_avatar_square.png" 
+  src="https://github.com/lazycatlabs/blog.lazycatlabs.com-giscus/blob/main/lazycatlabs/new_avatar_square.png?raw=true" 
   style="margin-top:20px;margin-right:13px;margin-bottom:20px"
   align="left" 
   height="350px"
